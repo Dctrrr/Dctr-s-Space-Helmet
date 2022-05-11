@@ -1,0 +1,10 @@
+name: DctrSpaceHelm
+version: '${project.version}'
+main: space.helm.dctr
+api-version: 1.16
+depend:
+  - Vault
+  - ProtocolLib
+  - PlaceholderAPI
+commands:
+  spacehelm:
